@@ -69,3 +69,7 @@ export function preparationTimeInMinutes(numberOfLayers) {
 export function totalTimeInMinutes(numberOfLayers, actualMinutesInOven) {
   return preparationTimeInMinutes(numberOfLayers) + actualMinutesInOven;
 }
+
+
+import React from 'react';
+

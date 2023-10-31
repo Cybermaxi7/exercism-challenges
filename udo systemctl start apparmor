@@ -1,0 +1,11 @@
+[0;1;32m●[0m apparmor.service - Load AppArmor profiles
+     Loaded: loaded (]8;;file://CybermaxiPC/usr/lib/systemd/system/apparmor.service/usr/lib/systemd/system/apparmor.service]8;;; [0;1;32menabled[0m; preset: [0;1;38;5;185mdisabled[0m)
+     Active: [0;1;32mactive (exited)[0m since Mon 2023-10-30 09:57:08 WAT; 22h ago
+    Process: 192 ExecStart=/lib/apparmor/apparmor.systemd reload (code=exited, status=0/SUCCESS)
+   Main PID: 192 (code=exited, status=0/SUCCESS)
+        CPU: 3.422s
+
+Oct 30 09:57:08 CybermaxiPC apparmor.systemd[192]: Restarting AppArmor
+Oct 30 09:57:08 CybermaxiPC apparmor.systemd[192]: Reloading AppArmor profiles
+Oct 30 09:57:08 CybermaxiPC systemd[1]: Finished Load AppArmor profiles.
+Notice: journal has been rotated since unit was started, output may be incomplete.
