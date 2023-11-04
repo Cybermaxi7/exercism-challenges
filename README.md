@@ -19,11 +19,12 @@ Welcome to my journey of daily JavaScript coding challenges! Here, I tackle one 
 
 ## Challenges Completed
 
-- Challenge 1: [Hello World](https://exercism.org/tracks/javascript/exercises/hello-world)
+- Challenge 1: [Hello-World](https://exercism.org/tracks/javascript/exercises/hello-world)
 - Challenge 2: [Lasangna](https://exercism.org/tracks/javascript/exercises/lasagna)
 - Challenge 3: [Annalyns-infiltration](https://exercism.org/tracks/javascript/exercises/annalyns-infiltration)
 - Challenge 4: [freelancer-rates](https://exercism.org/tracks/javascript/exercises/freelancer-rates)
 - Challenge 5: [Poetry-club-door-policy](https://exercism.org/tracks/javascript/exercises/poetry-club-door-policy)
+- Challenge 6: [Elyses-enchantments](https://exercism.org/tracks/javascript/exercises/elyses-enchantments)
 - ...
 
 
@@ -35,6 +36,7 @@ Welcome to my journey of daily JavaScript coding challenges! Here, I tackle one 
 - `challenge-3.js`: [javascript/annalyns-infiltration/annalyns-infiltration.js](javascript/annalyns-infiltration/annalyns-infiltration.js)
 - `challenge-4.js`: [javascript/freelancer-rates/freelancer-rates.js](javascript/freelancer-rates/freelancer-rates.js)
 - `challenge-5.js`: [javascript/poetry-club-door-policy/door-policy.js](javascript/poetry-club-door-policy/door-policy.js)
+- `challenge-6.js`: [javascript/elyses-enchantments/enchantments.js](javascript/elyses-enchantments/enchantments.js)
 - ...
 
 
