@@ -37,6 +37,8 @@ Welcome to my journey of daily JavaScript coding challenges! Here, I tackle one 
 - `challenge-4.js`: [javascript/freelancer-rates/freelancer-rates.js](javascript/freelancer-rates/freelancer-rates.js)
 - `challenge-5.js`: [javascript/poetry-club-door-policy/door-policy.js](javascript/poetry-club-door-policy/door-policy.js)
 - `challenge-6.js`: [javascript/elyses-enchantments/enchantments.js](javascript/elyses-enchantments/enchantments.js)
+- `challenge-7.js`: [javascript/vehicle-purchase/vehicle-purchase.js](javascript/vehicle-purchase/vehicle-purchase.js)
+- `challenge-8.js`: [javascript/bird-watcher/bird-watcher.js](javascript/bird-watcher/bird-watcher.js)
 - ...
 
 
