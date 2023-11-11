@@ -1,8 +1,8 @@
-# Daily JavaScript Coding Challenges
+# JavaScript Coding Challenges
 
 ![Exercism Logo](exercism-seeklogo.com.svg)
 
-Welcome to my journey of daily JavaScript coding challenges! Here, I tackle one Exercism challenge per day to sharpen my coding skills, solve real-world problems, and prepare for interviews. You can find the code for each challenge in this repository.
+Welcome to my journey of JavaScript coding challenges! Here, I tackle one Exercism challenge at a time to sharpen my coding skills, solve real-world problems, and prepare for interviews. You can find the code for each challenge in this repository.
 
 ## Table of Contents
 
@@ -25,6 +25,9 @@ Welcome to my journey of daily JavaScript coding challenges! Here, I tackle one 
 - Challenge 4: [freelancer-rates](https://exercism.org/tracks/javascript/exercises/freelancer-rates)
 - Challenge 5: [Poetry-club-door-policy](https://exercism.org/tracks/javascript/exercises/poetry-club-door-policy)
 - Challenge 6: [Elyses-enchantments](https://exercism.org/tracks/javascript/exercises/elyses-enchantments)
+- Challenge 7: [Vehicle-purchase](https://exercism.org/tracks/javascript/exercises/vehicle-purchase)
+- Challenge 8: [Bird-watcher](https://exercism.org/tracks/javascript/exercises/bird-watcher)
+- Challenge 9: [Mixed-Juices](https://exercism.org/tracks/javascript/exercises/mixed-juices)
 - ...
 
 
@@ -39,6 +42,8 @@ Welcome to my journey of daily JavaScript coding challenges! Here, I tackle one 
 - `challenge-6.js`: [javascript/elyses-enchantments/enchantments.js](javascript/elyses-enchantments/enchantments.js)
 - `challenge-7.js`: [javascript/vehicle-purchase/vehicle-purchase.js](javascript/vehicle-purchase/vehicle-purchase.js)
 - `challenge-8.js`: [javascript/bird-watcher/bird-watcher.js](javascript/bird-watcher/bird-watcher.js)
+- `challenge-9.js`: [javascript/bird-watcher/mixed-juices.js](javascript/mixed-juices.jsxed-juices.js)
+
 - ...
 
 
